@@ -1,4 +1,4 @@
-projeto executado junto ao professor Bonieky
+projeto executado junto ao professor Bonieky Lacerda B7web
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
